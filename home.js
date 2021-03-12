@@ -99,3 +99,13 @@ button.addEventListener('click', function(){
 
    
 })
+/* 
+let person = {
+    name : "Obafemi Martins",
+    ambition :"Footballer",
+    gross : "$ " + 30000,
+    nationality : "Nigerian"
+};
+
+showMessage(person.name);
+*/
